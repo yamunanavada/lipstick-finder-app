@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+.item-div {
+  border: 1px black solid;
+}
+
+input {
+  margin: 10px;
+}
+
+select {
+  margin: 20px;
+}
+
+#brand-selector > label {
+  color: red;
+}
